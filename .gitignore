@@ -1,0 +1,66 @@
+# python 3.8.7 Virtual Environmetn
+/venv
+
+
+# vs code files
+/.vscode
+
+
+# pycharm files
+/.idea
+
+
+# environmetn files
+*.env
+
+
+# unwanted file formats
+*.log
+*.pdf
+*.mp3
+*.mp4
+
+
+# Python rought works
+rough.py
+
+
+# personal contact info
+contactinfo.xlsx
+
+
+# Cached python files extensions
+*.pyc 
+*.pyi 
+
+
+# Abhinav's private application that he uses in date to date life.
+Applications/Arduino.lnk
+Applications/Google Chrome.lnk
+Applications/DroidCamApp.lnk
+Applications/Visual Studio Code.lnk
+Applications/PyCharm Professional.lnk
+Applications/Sublime Text.lnk
+Applications/Discord.lnk
+Applications/Rapid Typing.lnk
+
+
+# Cached folders
+~$Contacts.xlsx
+~$contactinfo.xlsx
+~$DailyWorks.xlsx
+pywhatkit_dbs.txt
+
+
+
+# Media created by Alice
+*.png
+*.jpg
+*.mp3
+*.mp4
+*.jpeg
+
+
+
+
+
